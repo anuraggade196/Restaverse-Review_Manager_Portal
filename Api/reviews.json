@@ -1,0 +1,78 @@
+{
+  "locationReviews": [
+    {
+      "name": "accounts/1234567890/locations/987654321",
+      "review": {
+        "name": "accounts/1234567890/locations/987654321/reviews/111",
+        "reviewId": "111",
+        "reviewer": {
+          "displayName": "John Doe",
+          "profilePhotoUrl": "https://example.com/profiles/johndoe.jpg"
+        },
+        "starRating": 4,
+        "comment": "Great experience! Will surely visit again soon and recommend this place.",
+        "createTime": "2023-04-01T12:00:00Z",
+        "updateTime": "2023-04-02T09:00:00Z",
+        "reviewReply": {
+          "comment": "Thank You for sharing your thoughts. We hope to improve our services even more !",
+          "updateTime": "2023-12-15T14:33:24Z"
+        }
+      }
+    },
+    {
+      "name": "accounts/1234567890/locations/987654321",
+      "review": {
+        "name": "accounts/1234567890/locations/987654321/reviews/222",
+        "reviewId": "222",
+        "reviewer": {
+          "displayName": "Jane Smith",
+          "profilePhotoUrl": "https://example.com/profiles/janesmith.jpg"
+        },
+        "starRating": 5,
+        "comment": "From the ambiance to the diverse menu offerings, each visit unveils a new reason to fall in love with this restaurant",
+        "createTime": "2023-03-05T15:30:00Z",
+        "updateTime": "2023-03-06T11:00:00Z",
+        "reviewReply": {
+          "comment": "We are glad that you had a good time :)",
+          "updateTime": "2023-12-14T17:31:26Z"
+        }
+      }
+    },
+    {
+      "name": "accounts/1234567890/locations/543210987",
+      "review": {
+        "name": "accounts/1234567890/locations/543210987/reviews/333",
+        "reviewId": "333",
+        "reviewer": {
+          "displayName": "Alice Johnson",
+          "profilePhotoUrl": "https://example.com/profiles/alice.jpg"
+        },
+        "starRating": 3,
+        "comment": "The attention to detail in both presentation and taste left me longing for another visit. However, the vegetables were a bit undercooked.",
+        "createTime": "2023-02-10T09:30:00Z",
+        "updateTime": "2023-02-11T08:00:00Z",
+        "reviewReply": {}
+      }
+    },
+    {
+      "name": "accounts/1234567890/locations/543210987",
+      "review": {
+        "name": "accounts/1234567890/locations/543210987/reviews/444",
+        "reviewId": "444",
+        "reviewer": {
+          "displayName": "Bob Anderson",
+          "profilePhotoUrl": "https://example.com/profiles/bob.jpg"
+        },
+        "starRating": 1,
+        "comment": "Absolutely poor customer service. Had the worst 2 hours of my life waiting for my order only to realise the chef walked out.",
+        "createTime": "2023-02-01T11:45:00Z",
+        "updateTime": "2023-02-02T10:00:00Z",
+        "reviewReply": {
+          "comment": "We are very sorry to hear this! Please get in touch with us at support@rest.in",
+          "updateTime": "2023-12-14T18:21:22Z"
+        }
+      }
+    }
+  ],
+  "nextPageToken": "some_next_page_token"
+}
