@@ -116,3 +116,13 @@ The Review Manager Portal is a centralized dashboard where business owners can m
 
 ---
 
+## **Screenshots**
+
+<details>
+  <summary>Click to view screenshots</summary>
+
+  <img src="https://github.com/anuraggade196/Restaverse-Review_Manager_Portal/assets/32789691/ec27b57c-1382-4cc0-b886-306b40dd19cc" width="30%">
+
+</details>
+
+
