@@ -115,14 +115,14 @@ The Review Manager Portal is a centralized dashboard where business owners can m
      - `VITE_BASEAPI_URL`.
 
 ---
-
 ## **Screenshots**
 
 <details>
   <summary>Click to view screenshots</summary>
 
-  <img src="https://github.com/anuraggade196/Restaverse-Review_Manager_Portal/assets/32789691/ec27b57c-1382-4cc0-b886-306b40dd19cc" width="30%">
+  <img src="https://github.com/anuraggade196/Restaverse-Review_Manager_Portal/blob/main/291281688-1915e867-50b8-4a9b-b418-1301c92bbfa4.png?raw=true" width="30%">
 
 </details>
+
 
 
